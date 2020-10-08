@@ -1,0 +1,12 @@
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\CrocCSharpTelegramBotConsole.exe.config
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\CrocCSharpTelegramBotConsole.exe
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\CrocCSharpTelegramBotConsole.pdb
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\Telegram.Bot.dll
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\bin\Debug\Telegram.Bot.xml
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\obj\Debug\CrocCSharpTelegramBotConsole.csprojAssemblyReference.cache
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\obj\Debug\CrocCSharpTelegramBotConsole.csproj.CoreCompileInputs.cache
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\obj\Debug\CrocCSharpTelegramBotConsole.csproj.CopyComplete
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\obj\Debug\CrocCSharpTelegramBotConsole.exe
+C:\Users\lesHa\source\repos\CrocCSharpTelegramBot\CrocCSharpTelegramBotConsole\obj\Debug\CrocCSharpTelegramBotConsole.pdb
